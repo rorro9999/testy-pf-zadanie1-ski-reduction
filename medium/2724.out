@@ -1,0 +1,27 @@
+x (I z I (z K (x (x B) (x (K v7) (z x) (v29 (B x)))) (x K (x K (S x)) S) K)) I (I (x (B B) v5 x) v12 (x (K (z (z (K (B x))))) K (z v28 z v10 K)) z)
+x (z I (z K (x (x B) (x (K v7) (z x) (v29 (B x)))) (x K (x K (S x)) S) K)) I (I (x (B B) v5 x) v12 (x (K (z (z (K (B x))))) K (z v28 z v10 K)) z)
+x (z I (z K (x (x B) (x (K v7) (z x) (v29 (B x)))) (x K (x K (S x)) S) K)) I (x (B B) v5 x v12 (x (K (z (z (K (B x))))) K (z v28 z v10 K)) z)
+v18 (K K) (x (v17 (z (S S S)) (K I (I B (z (K S)) B))) K B (v0 x))
+v18 (K K) (x (v17 (z (S S S)) I) K B (v0 x))
+B (B K (x B) x) S (v25 (x x S) (B (K z v11 S)) B (K K (I z (x z x) v5 (x x x))) (v24 (S z (x (I (S S))))) (z B x)) (x (x z) (B (S v27)))
+B K (x B) x (S (v25 (x x S) (B (K z v11 S)) B (K K (I z (x z x) v5 (x x x))) (v24 (S z (x (I (S S))))) (z B x))) (x (x z) (B (S v27)))
+K (x B x) (S (v25 (x x S) (B (K z v11 S)) B (K K (I z (x z x) v5 (x x x))) (v24 (S z (x (I (S S))))) (z B x))) (x (x z) (B (S v27)))
+x B x (x (x z) (B (S v27)))
+K
+v1
+v17 (K (S v2 (v29 (z (K x (B S)) S (K (I S) (z x (x I))) (z B)))))
+v17 (K (S v2 (v29 (z x S (K (I S) (z x (x I))) (z B)))))
+v17 (K (S v2 (v29 (z x S (I S) (z B)))))
+v17 (K (S v2 (v29 (z x S S (z B)))))
+v24 B B (K (I B)) z S K
+v24 B B (K B) z S K
+v6 (v8 (z v2) (I B (z K z S) B K B) (z (x (z S (K v13))) (B (v14 S (v14 K) B) (B B) (B B) (v17 (K z I (z I) B) (z (x K) K)))) (z (v6 z) S)) (K (I v5))
+v6 (v8 (z v2) (B (z K z S) B K B) (z (x (z S (K v13))) (B (v14 S (v14 K) B) (B B) (B B) (v17 (K z I (z I) B) (z (x K) K)))) (z (v6 z) S)) (K (I v5))
+v6 (v8 (z v2) (z K z S (B K) B) (z (x (z S (K v13))) (B (v14 S (v14 K) B) (B B) (B B) (v17 (K z I (z I) B) (z (x K) K)))) (z (v6 z) S)) (K (I v5))
+v6 (v8 (z v2) (z K z S (B K) B) (z (x (z S (K v13))) (v14 S (v14 K) B (B B (B B)) (v17 (K z I (z I) B) (z (x K) K)))) (z (v6 z) S)) (K (I v5))
+v6 (v8 (z v2) (z K z S (B K) B) (z (x (z S (K v13))) (v14 S (v14 K) B (B B (B B)) (v17 (z (z I) B) (z (x K) K)))) (z (v6 z) S)) (K (I v5))
+v6 (v8 (z v2) (z K z S (B K) B) (z (x (z S (K v13))) (v14 S (v14 K) B (B B (B B)) (v17 (z (z I) B) (z (x K) K)))) (z (v6 z) S)) (K v5)
+v14 S (I (I B S (B (S K v11)))) B
+v14 S (I B S (B (S K v11))) B
+v14 S (B S (B (S K v11))) B
+v0

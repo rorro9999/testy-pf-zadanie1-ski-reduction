@@ -1,0 +1,36 @@
+x (K (S (K (z (z (S (v19 B B)) I) (I S)) z) v15 (S K x B I))) (x z z)
+x (K (K (z (z (S (v19 B B)) I) (I S)) z (S K x B I) (v15 (S K x B I)))) (x z z)
+x (K (z (z (S (v19 B B)) I) (I S) (S K x B I) (v15 (S K x B I)))) (x z z)
+x (K (z (z (S (v19 B B)) I) S (S K x B I) (v15 (S K x B I)))) (x z z)
+x (K (z (z (S (v19 B B)) I) S (K B (x B) I) (v15 (S K x B I)))) (x z z)
+x (K (z (z (S (v19 B B)) I) S (B I) (v15 (S K x B I)))) (x z z)
+x (K (z (z (S (v19 B B)) I) S (B I) (v15 (K B (x B) I)))) (x z z)
+x (K (z (z (S (v19 B B)) I) S (B I) (v15 (B I)))) (x z z)
+B
+x (B (z (K v4) I) (B v16)) (S (v7 B)) K
+x (x z S (S (B S K (S K)) x x z)) B B v7
+x (x z S (B S K (S K) x (x x) z)) B B v7
+x (x z S (S (K (S K)) x (x x) z)) B B v7
+x (x z S (K (S K) (x x) (x (x x)) z)) B B v7
+x (x z S (S K (x (x x)) z)) B B v7
+x (x z S (K z (x (x x) z))) B B v7
+x (x z S z) B B v7
+K (z (x S) v9 K I)
+x (B (x (v22 S)) z (K x z)) (x x)
+x (x (v22 S) (z (K x z))) (x x)
+x (x (v22 S) (z x)) (x x)
+K (v29 (I z) S)
+K (v29 z S)
+I (B z (v20 I) x) (v20 x K) (v14 z)
+B z (v20 I) x (v20 x K) (v14 z)
+z (v20 I x) (v20 x K) (v14 z)
+K x (x B) (z z (I z) (K v25)) I (K S I S K) (z I (z (x (K z (v4 v3)))) (z v26 (v7 (v8 B) v2 (v26 v29) (I B)) (I S x x) x (S B) S)) v12
+x (z z (I z) (K v25)) I (K S I S K) (z I (z (x (K z (v4 v3)))) (z v26 (v7 (v8 B) v2 (v26 v29) (I B)) (I S x x) x (S B) S)) v12
+x (z z z (K v25)) I (K S I S K) (z I (z (x (K z (v4 v3)))) (z v26 (v7 (v8 B) v2 (v26 v29) (I B)) (I S x x) x (S B) S)) v12
+x (z z z (K v25)) I (S S K) (z I (z (x (K z (v4 v3)))) (z v26 (v7 (v8 B) v2 (v26 v29) (I B)) (I S x x) x (S B) S)) v12
+x (z z z (K v25)) I (S S K) (z I (z (x z)) (z v26 (v7 (v8 B) v2 (v26 v29) (I B)) (I S x x) x (S B) S)) v12
+x (z z z (K v25)) I (S S K) (z I (z (x z)) (z v26 (v7 (v8 B) v2 (v26 v29) B) (I S x x) x (S B) S)) v12
+x (z z z (K v25)) I (S S K) (z I (z (x z)) (z v26 (v7 (v8 B) v2 (v26 v29) B) (S x x) x (S B) S)) v12
+S (K (z (I S)) (z (K x x (I I v30)) S (K (z B (z B) (x (B x) B)))) S)
+S (z (I S) S)
+S (z S S)

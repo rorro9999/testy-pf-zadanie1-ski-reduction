@@ -1,0 +1,25 @@
+v27 B (S (S x B) S (x (z S)) (z x S) K (x (B z) (v21 (v5 x)))) S z (B (S (B (x (z (z (S x) (z S)))) (K I)) K)) (B (x (B S)) (v23 I (S (K z) K (x (v14 (S (S S)) (z (x (I I)))) (K v0) (S (x (z (S I)))))) (z K)))
+v27 B (S x B (x (z S)) (S (x (z S))) (z x S) K (x (B z) (v21 (v5 x)))) S z (B (S (B (x (z (z (S x) (z S)))) (K I)) K)) (B (x (B S)) (v23 I (S (K z) K (x (v14 (S (S S)) (z (x (I I)))) (K v0) (S (x (z (S I)))))) (z K)))
+v27 B (x (x (z S)) (B (x (z S))) (S (x (z S))) (z x S) K (x (B z) (v21 (v5 x)))) S z (B (S (B (x (z (z (S x) (z S)))) (K I)) K)) (B (x (B S)) (v23 I (S (K z) K (x (v14 (S (S S)) (z (x (I I)))) (K v0) (S (x (z (S I)))))) (z K)))
+v27 B (x (x (z S)) (B (x (z S))) (S (x (z S))) (z x S) K (x (B z) (v21 (v5 x)))) S z (B (S (B (x (z (z (S x) (z S)))) (K I)) K)) (B (x (B S)) (v23 I (K z (x (v14 (S (S S)) (z (x (I I)))) (K v0) (S (x (z (S I))))) (K (x (v14 (S (S S)) (z (x (I I)))) (K v0) (S (x (z (S I))))))) (z K)))
+v27 B (x (x (z S)) (B (x (z S))) (S (x (z S))) (z x S) K (x (B z) (v21 (v5 x)))) S z (B (S (B (x (z (z (S x) (z S)))) (K I)) K)) (B (x (B S)) (v23 I (z (K (x (v14 (S (S S)) (z (x (I I)))) (K v0) (S (x (z (S I))))))) (z K)))
+v27 B (x (x (z S)) (B (x (z S))) (S (x (z S))) (z x S) K (x (B z) (v21 (v5 x)))) S z (B (S (B (x (z (z (S x) (z S)))) (K I)) K)) (B (x (B S)) (v23 I (z (K (x (v14 (S (S S)) (z (x I))) (K v0) (S (x (z (S I))))))) (z K)))
+I
+K
+x
+v5 K x (S x (B I S) v19 (z I (I (x (B K S) K))) (x v6))
+v5 K x (x v19 (B I S v19) (z I (I (x (B K S) K))) (x v6))
+v5 K x (x v19 (I (S v19)) (z I (I (x (B K S) K))) (x v6))
+v5 K x (x v19 (S v19) (z I (I (x (B K S) K))) (x v6))
+v5 K x (x v19 (S v19) (z I (x (B K S) K)) (x v6))
+S (K (S S))
+v17 v4
+x (K B S K v7 S (S (v7 B) (z (K (I B) I))) B z) z
+x (B K v7 S (S (v7 B) (z (K (I B) I))) B z) z
+x (K (v7 S) (S (v7 B) (z (K (I B) I))) B z) z
+x (v7 S B z) z
+S (z (v22 x) (K (v24 (S (I B (I (S (K v16)))) (z v18)))) (K B (S x)))
+S (z (v22 x) (K (v24 (S (B (I (S (K v16)))) (z v18)))) (K B (S x)))
+S (z (v22 x) (K (v24 (S (B (S (K v16))) (z v18)))) (K B (S x)))
+S (z (v22 x) (K (v24 (S (B (S (K v16))) (z v18)))) B)
+I

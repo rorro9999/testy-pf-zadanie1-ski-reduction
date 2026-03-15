@@ -1,0 +1,14 @@
+K (x S z)
+x S z
+S (I x) z (x (B (I (K K))))
+I x (x (B (I (K K)))) (z (x (B (I (K K)))))
+x (x (B (I (K K)))) (z (x (B (I (K K)))))
+x (x (B (K K))) (z (x (B (I (K K)))))
+x (x (B (K K))) (z (x (B (K K))))
+B
+x I
+x B K
+v3
+K
+z
+z

@@ -1,0 +1,14 @@
+S (I v6) (K (z (z (S x))))
+S v6 (K (z (z (S x))))
+S K
+x B
+S v3
+B I
+K
+I (B z K (S B x))
+B z K (S B x)
+z (K (S B x))
+S x K z v12 K
+x z (K z) v12 K
+x K x
+K

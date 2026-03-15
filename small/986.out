@@ -1,0 +1,14 @@
+S (I x)
+S x
+I z
+z
+v18
+K
+K (x (I I S) v2)
+K (x (I S) v2)
+K (x S v2)
+v3 I
+B z
+z
+v11
+K (x S)

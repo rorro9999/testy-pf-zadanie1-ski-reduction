@@ -1,0 +1,50 @@
+S (B K) (K K K x) x (K (I v3 (B B)) v14 (K S (v12 K (x (x (K S) B))) (z (S z v1 x (v23 B) B))) I z (B S (K K) B))
+B K x (K K K x x) (K (I v3 (B B)) v14 (K S (v12 K (x (x (K S) B))) (z (S z v1 x (v23 B) B))) I z (B S (K K) B))
+K (x (K K K x x)) (K (I v3 (B B)) v14 (K S (v12 K (x (x (K S) B))) (z (S z v1 x (v23 B) B))) I z (B S (K K) B))
+x (K K K x x)
+x (K x x)
+x x
+B S (S (I (I I K)) B (v28 I) S (z (S K (K v27 (z (B B v12 I)) I)) (x (z (B B) (x (x (x x S) K))) (B (I B)))))
+B S (I (I I K) (v28 I) (B (v28 I)) S (z (S K (K v27 (z (B B v12 I)) I)) (x (z (B B) (x (x (x x S) K))) (B (I B)))))
+B S (I I K (v28 I) (B (v28 I)) S (z (S K (K v27 (z (B B v12 I)) I)) (x (z (B B) (x (x (x x S) K))) (B (I B)))))
+B S (I K (v28 I) (B (v28 I)) S (z (S K (K v27 (z (B B v12 I)) I)) (x (z (B B) (x (x (x x S) K))) (B (I B)))))
+B S (K (v28 I) (B (v28 I)) S (z (S K (K v27 (z (B B v12 I)) I)) (x (z (B B) (x (x (x x S) K))) (B (I B)))))
+B S (v28 I S (z (S K (K v27 (z (B B v12 I)) I)) (x (z (B B) (x (x (x x S) K))) (B (I B)))))
+B S (v28 I S (z (S K (v27 I)) (x (z (B B) (x (x (x x S) K))) (B (I B)))))
+B S (v28 I S (z (S K (v27 I)) (x (z (B B) (x (x (x x S) K))) (B B))))
+I (K x) S (z I (S (S x v6) K))
+K x S (z I (S (S x v6) K))
+x (z I (S (S x v6) K))
+x v4 S
+x (I I) z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (B (I B x I) K (S (v23 S I) z (I (I (z v6 (B z)))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (B (I B x I) K (S (v23 S I) z (I (I (z v6 (B z)))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (I B x I (K (S (v23 S I) z (I (I (z v6 (B z))))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (B x I (K (S (v23 S I) z (I (I (z v6 (B z))))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (x (I (K (S (v23 S I) z (I (I (z v6 (B z)))))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (x (K (S (v23 S I) z (I (I (z v6 (B z))))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (x (K (v23 S I (I (I (z v6 (B z)))) (z (I (I (z v6 (B z)))))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (x (K (v23 S I (I (z v6 (B z))) (z (I (I (z v6 (B z)))))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (x (K (v23 S I (z v6 (B z)) (z (I (I (z v6 (B z)))))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (x (K (v23 S I (z v6 (B z)) (z (I (z v6 (B z))))))))))
+x I z (v4 x (S (z (v16 v25))) K) K S (x (S (K (S x S)) z) (x (x (x (K (v23 S I (z v6 (B z)) (z (z v6 (B z)))))))))
+K (v2 K) v19 (x (I K) x S (I K) (z I)) (x K (z B) B v21) (I (I z) I) I
+v2 K (x (I K) x S (I K) (z I)) (x K (z B) B v21) (I (I z) I) I
+v2 K (x K x S (I K) (z I)) (x K (z B) B v21) (I (I z) I) I
+v2 K (x K x S K (z I)) (x K (z B) B v21) (I (I z) I) I
+v2 K (x K x S K (z I)) (x K (z B) B v21) (I z I) I
+v2 K (x K x S K (z I)) (x K (z B) B v21) (z I) I
+I I (I (B (v25 (B (K K))) S) (x z)) (B (S B) (K (B K) x (v27 (K B) I (x (K I)) (x (I x x)) x (x (K v24) I I))))
+I (I (B (v25 (B (K K))) S) (x z)) (B (S B) (K (B K) x (v27 (K B) I (x (K I)) (x (I x x)) x (x (K v24) I I))))
+I (B (v25 (B (K K))) S) (x z) (B (S B) (K (B K) x (v27 (K B) I (x (K I)) (x (I x x)) x (x (K v24) I I))))
+B (v25 (B (K K))) S (x z) (B (S B) (K (B K) x (v27 (K B) I (x (K I)) (x (I x x)) x (x (K v24) I I))))
+v25 (B (K K)) (S (x z)) (B (S B) (K (B K) x (v27 (K B) I (x (K I)) (x (I x x)) x (x (K v24) I I))))
+v25 (B (K K)) (S (x z)) (B (S B) (B K (v27 (K B) I (x (K I)) (x (I x x)) x (x (K v24) I I))))
+v25 (B (K K)) (S (x z)) (B (S B) (B K (v27 (K B) I (x (K I)) (x (x x)) x (x (K v24) I I))))
+S (x (S (v22 v16)) (z K) (z K (B v5) (x x v9))) (S (x (S x)) B (x (z (x S)) v29 S)) (x (v20 v27) x B B (K x z)) (z (x (z (v21 (v20 (K v25 (v9 B))) x) v29 (K (x (v7 (v27 S))))))) x
+x (S (v22 v16)) (z K) (z K (B v5) (x x v9)) (x (v20 v27) x B B (K x z)) (S (x (S x)) B (x (z (x S)) v29 S) (x (v20 v27) x B B (K x z))) (z (x (z (v21 (v20 (K v25 (v9 B))) x) v29 (K (x (v7 (v27 S))))))) x
+x (S (v22 v16)) (z K) (z K (B v5) (x x v9)) (x (v20 v27) x B B x) (S (x (S x)) B (x (z (x S)) v29 S) (x (v20 v27) x B B (K x z))) (z (x (z (v21 (v20 (K v25 (v9 B))) x) v29 (K (x (v7 (v27 S))))))) x
+x (S (v22 v16)) (z K) (z K (B v5) (x x v9)) (x (v20 v27) x B B x) (x (S x) (x (z (x S)) v29 S) (B (x (z (x S)) v29 S)) (x (v20 v27) x B B (K x z))) (z (x (z (v21 (v20 (K v25 (v9 B))) x) v29 (K (x (v7 (v27 S))))))) x
+x (S (v22 v16)) (z K) (z K (B v5) (x x v9)) (x (v20 v27) x B B x) (x (S x) (x (z (x S)) v29 S) (B (x (z (x S)) v29 S)) (x (v20 v27) x B B x)) (z (x (z (v21 (v20 (K v25 (v9 B))) x) v29 (K (x (v7 (v27 S))))))) x
+x (S (v22 v16)) (z K) (z K (B v5) (x x v9)) (x (v20 v27) x B B x) (x (S x) (x (z (x S)) v29 S) (B (x (z (x S)) v29 S)) (x (v20 v27) x B B x)) (z (x (z (v21 (v20 v25) x) v29 (K (x (v7 (v27 S))))))) x
+K
+v20 v11 v20

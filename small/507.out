@@ -1,0 +1,13 @@
+z (x v17)
+z K K
+x
+S (I v14 K (I S v23))
+S (v14 K (I S v23))
+S (v14 K (S v23))
+z (S B) (S (B (I (K B)))) x
+z (S B) (S (B (K B))) x
+v8 v30 B I
+z (x B (v14 x))
+v21
+B K
+K K

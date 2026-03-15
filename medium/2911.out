@@ -1,0 +1,33 @@
+x B z (z (K (S K)) (I (v21 S) (x (I v22 (S z))))) K (B I) (z z (v29 (x B (x B K v26 S) S (v6 (z S B)) K (z (B z)))))
+x B z (z (K (S K)) (v21 S (x (I v22 (S z))))) K (B I) (z z (v29 (x B (x B K v26 S) S (v6 (z S B)) K (z (B z)))))
+x B z (z (K (S K)) (v21 S (x (v22 (S z))))) K (B I) (z z (v29 (x B (x B K v26 S) S (v6 (z S B)) K (z (B z)))))
+I (z S) (K (x (z (x (B (B z)) (I z) z K) (B (S B) z (K B))) (I (K B (S (I (K x) S))))) I)
+z S (K (x (z (x (B (B z)) (I z) z K) (B (S B) z (K B))) (I (K B (S (I (K x) S))))) I)
+z S (x (z (x (B (B z)) (I z) z K) (B (S B) z (K B))) (I (K B (S (I (K x) S)))))
+z S (x (z (x (B (B z)) z z K) (B (S B) z (K B))) (I (K B (S (I (K x) S)))))
+z S (x (z (x (B (B z)) z z K) (S B (z (K B)))) (I (K B (S (I (K x) S)))))
+z S (x (z (x (B (B z)) z z K) (S B (z (K B)))) (K B (S (I (K x) S))))
+z S (x (z (x (B (B z)) z z K) (S B (z (K B)))) B)
+z
+I (v21 (z (B I)))
+v21 (z (B I))
+S (B (x (z (x B))) I (S (v4 B x)) (I (v4 S S K))) (I (z (I x z) S z) (K (I S B) (x z)) (K (z x) (z B))) S
+B (x (z (x B))) I (S (v4 B x)) (I (v4 S S K)) S (I (z (I x z) S z) (K (I S B) (x z)) (K (z x) (z B)) S)
+x (z (x B)) (I (S (v4 B x))) (I (v4 S S K)) S (I (z (I x z) S z) (K (I S B) (x z)) (K (z x) (z B)) S)
+x (z (x B)) (S (v4 B x)) (I (v4 S S K)) S (I (z (I x z) S z) (K (I S B) (x z)) (K (z x) (z B)) S)
+x (z (x B)) (S (v4 B x)) (v4 S S K) S (I (z (I x z) S z) (K (I S B) (x z)) (K (z x) (z B)) S)
+x (z (x B)) (S (v4 B x)) (v4 S S K) S (z (I x z) S z (K (I S B) (x z)) (K (z x) (z B)) S)
+x (z (x B)) (S (v4 B x)) (v4 S S K) S (z (x z) S z (K (I S B) (x z)) (K (z x) (z B)) S)
+x (z (x B)) (S (v4 B x)) (v4 S S K) S (z (x z) S z (I S B) (K (z x) (z B)) S)
+x (z (x B)) (S (v4 B x)) (v4 S S K) S (z (x z) S z (S B) (K (z x) (z B)) S)
+x (z (x B)) (S (v4 B x)) (v4 S S K) S (z (x z) S z (S B) (z x) S)
+S x (B (K I (I S)))
+S x (B I)
+v10 (x x z (K (S (K (S (S z)) S)))) B (x (B B (z (v16 (v30 K)))))
+v10 (x x z (K (S (S (S z))))) B (x (B B (z (v16 (v30 K)))))
+S
+K (B I) I
+B I
+I (K (S B) (K x z)) S
+K (S B) (K x z) S
+S B S

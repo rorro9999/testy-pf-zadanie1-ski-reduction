@@ -1,0 +1,13 @@
+K
+K (v30 S)
+K
+B (B (I v15 (v12 x)) (I K))
+B (B (v15 (v12 x)) (I K))
+B (B (v15 (v12 x)) K)
+S (K K (B B) (S x))
+S (K (S x))
+S z
+x z
+z
+B z
+B

@@ -1,0 +1,18 @@
+x z (B x)
+I I
+I
+B
+S S z (z (I v9))
+S (z (I v9)) (z (z (I v9)))
+S (z v9) (z (z (I v9)))
+S (z v9) (z (z v9))
+z (B B I (v7 B))
+z (B (I (v7 B)))
+z (B (v7 B))
+z
+S x I (z (x B) (B I))
+x (z (x B) (B I)) (I (z (x B) (B I)))
+x (z (x B) (B I)) (z (x B) (B I))
+v4
+S
+S S

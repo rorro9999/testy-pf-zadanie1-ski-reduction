@@ -1,0 +1,15 @@
+S (I z)
+S z
+K
+K
+I (B z z) (x (B S))
+B z z (x (B S))
+z (z (x (B S)))
+B K (z B) x
+K (z B x)
+S (v24 x)
+v0
+v10
+I x
+x
+x

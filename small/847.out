@@ -1,0 +1,12 @@
+x
+x (S x)
+S S B (z v24 x) (S S (S v18))
+S (z v24 x) (B (z v24 x)) (S S (S v18))
+z v24 x (S S (S v18)) (B (z v24 x) (S S (S v18)))
+S x
+x
+S
+S
+S
+B K
+x

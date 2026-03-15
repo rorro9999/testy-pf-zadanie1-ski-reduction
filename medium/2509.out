@@ -1,0 +1,26 @@
+S (S (S x (x I)))
+I (x B) S
+x B S
+B I (x (K I) I)
+v4 (K K) (S (x K)) (B B S I) v19 (S (I (I z) S (S S)) (S (v29 (B (I (S (S B)))))) x)
+v4 (K K) (S (x K)) (B (S I)) v19 (S (I (I z) S (S S)) (S (v29 (B (I (S (S B)))))) x)
+v4 (K K) (S (x K)) (B (S I)) v19 (I (I z) S (S S) x (S (v29 (B (I (S (S B))))) x))
+v4 (K K) (S (x K)) (B (S I)) v19 (I z S (S S) x (S (v29 (B (I (S (S B))))) x))
+v4 (K K) (S (x K)) (B (S I)) v19 (z S (S S) x (S (v29 (B (I (S (S B))))) x))
+v4 (K K) (S (x K)) (B (S I)) v19 (z S (S S) x (S (v29 (B (S (S B)))) x))
+v8
+x
+v4 (K (S (I (S (B v28) v30))) (B (v19 K (x I) K))) B (z K) I (K (B (S (x S v19 (K (v21 x B K) v16))))) v30
+v4 (S (I (S (B v28) v30))) B (z K) I (K (B (S (x S v19 (K (v21 x B K) v16))))) v30
+v4 (S (S (B v28) v30)) B (z K) I (K (B (S (x S v19 (K (v21 x B K) v16))))) v30
+v4 (S (S (B v28) v30)) B (z K) I (K (B (S (x S v19 (v21 x B K))))) v30
+B z (z (B (x (v13 z x))) (I (B x))) (v3 B (z (I (B v9 (z I x v18))) (v23 (I (x K (K B) K) S) (x (B (I (K S))))))) (z S)
+z (z (B (x (v13 z x))) (I (B x)) (v3 B (z (I (B v9 (z I x v18))) (v23 (I (x K (K B) K) S) (x (B (I (K S)))))))) (z S)
+z (z (B (x (v13 z x))) (B x) (v3 B (z (I (B v9 (z I x v18))) (v23 (I (x K (K B) K) S) (x (B (I (K S)))))))) (z S)
+z (z (B (x (v13 z x))) (B x) (v3 B (z (B v9 (z I x v18)) (v23 (I (x K (K B) K) S) (x (B (I (K S)))))))) (z S)
+z (z (B (x (v13 z x))) (B x) (v3 B (z (B v9 (z I x v18)) (v23 (x K (K B) K S) (x (B (I (K S)))))))) (z S)
+z (z (B (x (v13 z x))) (B x) (v3 B (z (B v9 (z I x v18)) (v23 (x K (K B) K S) (x (B (K S))))))) (z S)
+S (S B (v5 (x v18 S)))
+x (v3 (v26 v5) (x I)) x K B (z (z K) S x) (S (B x (x v29))) (v24 (v19 K) (v22 (I x (K (z (v23 x))) z)) (z (v13 (x x)) (v28 (I z) (S K (B (x (x (z B) I B))))))) (v18 z)
+x (v3 (v26 v5) (x I)) x K B (z (z K) S x) (S (B x (x v29))) (v24 (v19 K) (v22 (x (K (z (v23 x))) z)) (z (v13 (x x)) (v28 (I z) (S K (B (x (x (z B) I B))))))) (v18 z)
+x (v3 (v26 v5) (x I)) x K B (z (z K) S x) (S (B x (x v29))) (v24 (v19 K) (v22 (x (K (z (v23 x))) z)) (z (v13 (x x)) (v28 z (S K (B (x (x (z B) I B))))))) (v18 z)

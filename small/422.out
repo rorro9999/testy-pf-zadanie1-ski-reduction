@@ -1,0 +1,12 @@
+S (x (I K) (K (B x))) I
+S (x K (K (B x))) I
+v18
+x (I K B) z
+x (K B) z
+S z S
+B
+v1 (z S) (v9 S x) (B (z I))
+B x
+v4
+B
+v4

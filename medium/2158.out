@@ -1,0 +1,22 @@
+v29 K S (x z z) v27 K (K x (x z) K) K (I S (K z B I) x) B
+v29 K S (x z z) v27 K (x K) K (I S (K z B I) x) B
+v29 K S (x z z) v27 K (x K) K (S (K z B I) x) B
+v29 K S (x z z) v27 K (x K) K (S (z I) x) B
+v28
+x I K (K (v14 z) B) (S x) (B (z x (B (B K)))) (K I)
+x I K (v14 z) (S x) (B (z x (B (B K)))) (K I)
+z (K (S B K v25 v1) S)
+z (S B K v25 v1)
+z (B v25 (K v25) v1)
+z (v25 (K v25 v1))
+z (v25 v25)
+B B
+v8
+K
+S (z (B (v11 (B z) v1) z B (v28 K) (K (v22 B B K B (z I))))) S
+S (z (v11 (B z) v1 (z B) (v28 K) (K (v22 B B K B (z I))))) S
+K x
+I (S K S) (x z I) (K B) (x (x v1 I v7 I v11 x B)) (B B B)
+S K S (x z I) (K B) (x (x v1 I v7 I v11 x B)) (B B B)
+K (x z I) (S (x z I)) (K B) (x (x v1 I v7 I v11 x B)) (B B B)
+x z I (K B) (x (x v1 I v7 I v11 x B)) (B B B)

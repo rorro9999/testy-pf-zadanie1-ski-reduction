@@ -1,0 +1,12 @@
+S v17
+K v12
+S (I x (B B)) x
+S (x (B B)) x
+x S I
+S
+x
+z (v17 B)
+B
+B (K I (I I))
+B I
+v13

@@ -1,0 +1,27 @@
+B (z (v12 x) I K B) (K (B (K S)) (K z K)) (B (z (v4 I) v19 (K S)) (S (I (B (v4 (S v10)))) (v8 S S (I (x (B S I))) x (z (z (x K) v2)))))
+z (v12 x) I K B (K (B (K S)) (K z K) (B (z (v4 I) v19 (K S)) (S (I (B (v4 (S v10)))) (v8 S S (I (x (B S I))) x (z (z (x K) v2))))))
+z (v12 x) I K B (B (K S) (B (z (v4 I) v19 (K S)) (S (I (B (v4 (S v10)))) (v8 S S (I (x (B S I))) x (z (z (x K) v2))))))
+z (v12 x) I K B (B (K S) (B (z (v4 I) v19 (K S)) (S (B (v4 (S v10))) (v8 S S (I (x (B S I))) x (z (z (x K) v2))))))
+z (v12 x) I K B (B (K S) (B (z (v4 I) v19 (K S)) (S (B (v4 (S v10))) (v8 S S (x (B S I)) x (z (z (x K) v2))))))
+z (S (x K v30 (B x I S (z v14))) x) (I (v29 (B B I)) I)
+z (S (x K v30 (x (I S) (z v14))) x) (I (v29 (B B I)) I)
+z (S (x K v30 (x S (z v14))) x) (I (v29 (B B I)) I)
+z (S (x K v30 (x S (z v14))) x) (v29 (B B I) I)
+K (I v23 (B S))
+K (v23 (B S))
+K
+K (v15 (S B v26 (x (v12 K) v5 (S x))) z) (S (x I)) (I S S) (v27 (z B (z K)) (x B) (S K (S v22)))
+v15 (S B v26 (x (v12 K) v5 (S x))) z (I S S) (v27 (z B (z K)) (x B) (S K (S v22)))
+v15 (B (x (v12 K) v5 (S x)) (v26 (x (v12 K) v5 (S x)))) z (I S S) (v27 (z B (z K)) (x B) (S K (S v22)))
+v15 (B (x (v12 K) v5 (S x)) (v26 (x (v12 K) v5 (S x)))) z (S S) (v27 (z B (z K)) (x B) (S K (S v22)))
+z
+x
+K (z (B (K (I B)))) (K S) (x z) (x (S S) I (S (B (z (I x) I B))) (v5 K I) v6 (I (z B (v12 z S)) B (B x K (S S (K K I)) (z I))))
+z (B (K (I B))) (x z) (x (S S) I (S (B (z (I x) I B))) (v5 K I) v6 (I (z B (v12 z S)) B (B x K (S S (K K I)) (z I))))
+z (B (K B)) (x z) (x (S S) I (S (B (z (I x) I B))) (v5 K I) v6 (I (z B (v12 z S)) B (B x K (S S (K K I)) (z I))))
+z (B (K B)) (x z) (x (S S) I (S (B (z x I B))) (v5 K I) v6 (I (z B (v12 z S)) B (B x K (S S (K K I)) (z I))))
+z (B (K B)) (x z) (x (S S) I (S (B (z x I B))) (v5 K I) v6 (z B (v12 z S) B (B x K (S S (K K I)) (z I))))
+z (B (K B)) (x z) (x (S S) I (S (B (z x I B))) (v5 K I) v6 (z B (v12 z S) B (x (K (S S (K K I))) (z I))))
+z (B (K B)) (x z) (x (S S) I (S (B (z x I B))) (v5 K I) v6 (z B (v12 z S) B (x (K (S S K)) (z I))))
+K
+x

@@ -1,0 +1,15 @@
+x
+v22 x
+B
+v29 (v30 (B (I z))) (B (x I) (z I (z (K B I)) (x B x (x S (z K K))) v1)) (x K (B x z) x z) (S I v23 (z I z (z z)) (S (I (z v28)) B))
+v29 (v30 (B z)) (B (x I) (z I (z (K B I)) (x B x (x S (z K K))) v1)) (x K (B x z) x z) (S I v23 (z I z (z z)) (S (I (z v28)) B))
+v29 (v30 (B z)) (B (x I) (z I (z B) (x B x (x S (z K K))) v1)) (x K (B x z) x z) (S I v23 (z I z (z z)) (S (I (z v28)) B))
+v29 (v30 (B z)) (B (x I) (z I (z B) (x B x (x S (z K K))) v1)) (x K (B x z) x z) (I (z I z (z z)) (v23 (z I z (z z))) (S (I (z v28)) B))
+v29 (v30 (B z)) (B (x I) (z I (z B) (x B x (x S (z K K))) v1)) (x K (B x z) x z) (z I z (z z) (v23 (z I z (z z))) (S (I (z v28)) B))
+v29 (v30 (B z)) (B (x I) (z I (z B) (x B x (x S (z K K))) v1)) (x K (B x z) x z) (z I z (z z) (v23 (z I z (z z))) (S (z v28) B))
+K
+S
+v23
+K
+z
+z (K (K (z (S I))))
