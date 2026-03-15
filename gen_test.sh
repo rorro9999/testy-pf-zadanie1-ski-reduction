@@ -8,7 +8,6 @@ ghc gen
 
 mkdir -p small
 for((i=0;i<1000;++i));do
-#for((i=0;i<10;++i));do
     echo "10 $i 0.45 0.08" | ./gen  > small/$i.in &
 done
 
@@ -47,8 +46,3 @@ echo "./${ans_prog%.hs}"
 toster --io small  ./${ans_prog%.hs} --generate
 toster --io medium ./${ans_prog%.hs} --generate
 toster --io large  ./${ans_prog%.hs} --generate --timeout 10000
-exit
-for f in large/*.in; do
-    echo $f ${f%.in}.out
-    time ./${ans_prog%.hs} < $f > ${f%.in}.out
-done
