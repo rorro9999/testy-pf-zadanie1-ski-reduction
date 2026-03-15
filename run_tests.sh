@@ -52,5 +52,6 @@ if (($# != 0)); then
     exit 0
 fi
 
-
-./${checker%.hs}
+toster ./${checker%.hs} --io small
+toster ./${checker%.hs} --io medium
+toster ./${checker%.hs} --io large --timeout 200
